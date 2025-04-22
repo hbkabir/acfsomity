@@ -1,0 +1,7 @@
+your-site/
+├── index.html
+├── css/
+├── images/
+├── admin/
+│   ├── index.html
+│   └── config.yml
